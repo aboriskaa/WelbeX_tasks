@@ -1,4 +1,4 @@
-# test task WelbeX
+## test task WelbeX (React + Node + PostgreSQL)
 
 1) старт сервера: 
 npm run dev
